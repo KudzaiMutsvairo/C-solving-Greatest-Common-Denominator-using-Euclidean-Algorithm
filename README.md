@@ -1,0 +1,1 @@
+The Euclidean algorithm calculates the greatest common divisor (GCD) of two natural numbers a and b. The greatest common divisor g is the largest natural number that divides both a and b without leaving a remainder.
